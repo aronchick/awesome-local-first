@@ -37,6 +37,7 @@ A curated list of local-first software, resources, and development tools. Local-
 - [Replicache](https://replicache.dev) - Client-side state management with automatic sync
 - [PowerSync](https://www.powersync.com) - Offline-first sync engine for mobile and web apps
 - [Y-Sweet](https://jamsocket.com/y-sweet) - Backend service for Yjs CRDT sync
+- [Tinybase](https://github.com/tinyplex/tinybase) - A reactive data store & sync engine
 
 ### CRDT Libraries
 - [Automerge](https://automerge.org/) - CRDT library with automatic merging and cross-platform support
