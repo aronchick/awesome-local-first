@@ -10,7 +10,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 ### Foundational Articles
 - [Local-First Software](https://www.inkandswitch.com/local-first/) – The original article introducing local-first principles by Ink & Switch  
 - [Building Local-First Software](https://martin.kleppmann.com/papers/local-first.pdf) – Academic paper on local-first principles  
-- [Why Haven’t Local-First Apps Taken Off? (2025)](https://marcobambini.com/posts/local-first-challenges) – Examines distributed complexity and adoption barriers  
+- [Why Haven’t Local-First Apps Taken Off? (2025)](https://marcobambini.substack.com/p/why-local-first-apps-havent-become) – Examines distributed complexity and adoption barriers  
 
 ### Architecture & Implementation
 - [Are Sync Engines the Future of Web Applications?](https://dev.to/isaachagoel/are-sync-engines-the-future-of-web-applications-1bbi) – Deep dive into sync engine design  
